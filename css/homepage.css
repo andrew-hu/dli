@@ -1,4 +1,49 @@
-/*test*/
-h1 {
-	color: blue;
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Lobster'), url('http://themes.googleusercontent.com/static/fonts/lobster/v4/NIaFDq6p6eLpSvtV2DTNDQLUuEpTyoUstqEm5AMlJo4.woff') format('woff');
 }
+/*test*/
+#wrapper {
+	min-width: 320px;
+}
+#header {
+	position: relative;
+	padding-bottom: 60px;
+}
+body {
+	background-color: #33334d;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+#container {
+	background-color: #d9d9d9; 
+}
+.header-description {
+	font-style: italic;
+	font-size: 16px;
+	color: #b3b3cc;
+	float: left;
+	padding-top: 50px;
+}
+.select {
+	font-size: 50px;
+	transition: all .5s;
+	padding: 20px 20px 20px 20px;
+}
+.select:hover {
+	background-color: #33334d;
+    color: #d9d9d9;
+}
+.select:hover a {
+	color: #d9d9d9; 
+}
+a:link {
+    text-decoration: none;
+    color: #33334d;
+}
+a:visited {
+    text-decoration: none;
+    color: #33334d;
+}
+
