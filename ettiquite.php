@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>DLI</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 	</head>
 	<body>
 		<div>
@@ -13,7 +14,7 @@
 			 You don't have to stay professional at all times.<br></br>
 			Middle East: It is abnormal to not shake hands with people. Kiss on the cheek is only for women and it is abnormal to touch people who aren't your relatives. It is seen as disrespectful.
 			<br></br>
-			arabic translation<br></br>
+			arabic translation: مرحبا<br></br>
 		</div>
 		<div>
 		    <img src="http://connxn.net/cnxn/wp-content/uploads/2012/08/2-people-talking-photo.jpeg"
