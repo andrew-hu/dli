@@ -1,4 +1,4 @@
-#!/usr/bin/php
+
 <?php
 /**
  * Andrew Hu used code from this location: https://github.com/Yelp/yelp-api/blob/master/v2/php/sample.php
@@ -29,9 +29,9 @@ $CONSUMER_SECRET = "7O732L9aUuEsOl_PeBRhkxUczQ8";
 $TOKEN = "FzXBIgA1wvRsXw3DnfsCdkKt9_oCl4LM";
 $TOKEN_SECRET = "CGW_MHWBsCczNFM5lSqw-C2Fee4";
 $API_HOST = 'api.yelp.com';
-$DEFAULT_TERM = 'dinner';
-$DEFAULT_LOCATION = 'San Francisco, CA';
-$SEARCH_LIMIT = 3;
+$DEFAULT_TERM = 'mediterranean';
+$DEFAULT_LOCATION = '94539';
+$SEARCH_LIMIT = 10;
 $SEARCH_PATH = '/v2/search/';
 $BUSINESS_PATH = '/v2/business/';
 /**
@@ -122,7 +122,14 @@ function get_business($business_id) {
 function query_api($term, $location) {
     $response = json_decode(search($term, $location));
     $business_id = $response->businesses[0]->id;
+    
+    for($i=0; $i<10; $i++) {
+        echo $response->businesses[$i]->name . "<br>";
+        echo "<img src=" . $response->businesses[$i]->rating_img_url . "></img><br>";
+        echo "<img src=" . $response->businesses[$i]->image_url . "></img><br>";
+    }
 
+    echo "<br>";
     print sprintf(
         "%d businesses found, querying business info for the top result \"%s\"\n\n",
         count($response->businesses),
@@ -132,7 +139,16 @@ function query_api($term, $location) {
     $response = get_business($business_id);
 
     print sprintf("Result for business \"%s\" found:\n", $business_id);
-    print "$response\n";
+    
+    //split string
+    /*$response = explode(',', $response);
+
+    $arrlength = count($response);
+    for($x = 0; $x < $arrlength; $x++) {
+        echo $response[$x];
+        echo "<br>";
+    }*/
+    print "<br>$response\n";
 }
 /**
  * User input is handled here
@@ -145,5 +161,5 @@ $longopts  = array(
 $options = getopt("", $longopts);
 $term = $options['term'] ?: '';
 $location = $options['location'] ?: '';
-query_api($term, $location);
+
 ?>

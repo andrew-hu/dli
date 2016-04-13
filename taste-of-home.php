@@ -1,3 +1,7 @@
+<?php
+include 'sample.php';
+?>
+
 <html>
 	<head>
 		<title>DLI</title>
@@ -7,7 +11,9 @@
 			<h1>DLI Taste of Home</h1>
 		</div>
 		<div>
-			Info here
+		<?php
+		query_api($term, $location);
+		?>
 		</div>
 
 
