@@ -7,7 +7,11 @@
 			<h1>DLI Meetups</h1>
 		</div>
 		<div>
-			Info here
+			Name
+			Event Name
+			Date/Time
+			Location
+			Description
 		</div>
 
 
