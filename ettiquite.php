@@ -5,8 +5,8 @@
 	</head>
 	<body>
 		<div>
-			<h1>DLI Ettiquite Guide</h1>
-			<h1> دليل آداب</h1>
+			<h1>DLI Ettiquite Guide between USA and Syria</h1>
+			<h1> دليل الادب بين الولايات المتحدة الامريكية و سوريا </h1>
 		</div>
 		<div>
 		    <img src="http://www.resourcesforlife.com/wp/wp-content/uploads/2015/01/20150119tu-Diplomacy-US-President-George-W-Bush-holds-hand-with-king-saudi-arabia-6446422.jpg"
@@ -127,6 +127,7 @@
 			Arabic translation:أمريكا: الشيء الوحيد الذي يمكن أن تسيء به الشعب الأميركي هو اشارة إصبعك الأوسط على شخص ما. الرجال والنساء عادة ما يجلس مع الساقين عبرت تماما، ويبتسم في الجميع.<br></br>
          الشرق الأوسط: إمالة رأسك إلى الخلف ورفع حاجبيك هي إيماءة جسدية  معناها لا<br></br>
 		</div>
+
 		</div>
 
 
