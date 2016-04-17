@@ -5,6 +5,10 @@
 		<link rel="stylesheet" type="text/css" href="css/homepage.css">
 	</head>
 	<body>
+		<header id="header">
+				<h1 class="logo"><a href="homepage.php"><img src="http://i.imgur.com/47112La.png?1"></a></h1>
+				<!--span class="header-description">Bringing Communities Together<span-->
+		</header>
 		<div>
 			<h1>DLI Ettiquite Guide between USA and Syria</h1>
 			<h1> دليل الادب بين الولايات المتحدة الامريكية و سوريا </h1>
