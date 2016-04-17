@@ -124,12 +124,22 @@ function query_api($term, $location) {
     $business_id = $response->businesses[0]->id;
     
     for($i=0; $i<10; $i++) {
-        echo $response->businesses[$i]->name . "<br>";
-        echo "<img src=" . $response->businesses[$i]->rating_img_url . "></img><br>";
-        echo "<img src=" . $response->businesses[$i]->image_url . "></img><br>";
+        echo "<a id='taste_name' href=" . $response->businesses[$i]->url . ">" . $response->businesses[$i]->name . "</a><br>";
+        echo "<img src=" . $response->businesses[$i]->rating_img_url . "></img></a><br>";
+        for ($j=0; $j<count($response->businesses[$i]->categories); $j++){
+            echo $response->businesses[$i]->categories[$j][0];
+            if ($j<count($response->businesses[$i]->categories)-1) { echo ", "; }
+        } echo "<br>";
+        echo "<a href=" . $response->businesses[$i]->url . "><img src=" . $response->businesses[$i]->image_url . "></img></a><br>";
+        echo $response->businesses[$i]->location->display_address[0] . "<br>" . $response->businesses[$i]->location->display_address[1] ."<br>";
+        echo "(".substr($response->businesses[$i]->phone, 0, 3).") ".substr($response->businesses[$i]->phone, 3, 3)."-".substr($response->businesses[$i]->phone,6) . "<br>";
+        echo "<br><hr>";
     }
 
     echo "<br>";
+    
+    //Business info dump 
+    /*
     print sprintf(
         "%d businesses found, querying business info for the top result \"%s\"\n\n",
         count($response->businesses),
@@ -140,15 +150,9 @@ function query_api($term, $location) {
 
     print sprintf("Result for business \"%s\" found:\n", $business_id);
     
-    //split string
-    /*$response = explode(',', $response);
-
-    $arrlength = count($response);
-    for($x = 0; $x < $arrlength; $x++) {
-        echo $response[$x];
-        echo "<br>";
-    }*/
     print "<br>$response\n";
+    */
+    
 }
 /**
  * User input is handled here

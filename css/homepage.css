@@ -15,6 +15,7 @@
 body {
 	background-color: #33334d;
 	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	color: #d9d9d9;
 }
 #container {
 	background-color: #d9d9d9; 
@@ -46,4 +47,15 @@ a:visited {
     text-decoration: none;
     color: #33334d;
 }
-
+#toc a:visited {
+    text-decoration: none;
+    color: #d9d9d9;
+}
+#toc a:link {
+    text-decoration: none;
+    color: #d9d9d9;
+}
+/*Taste of Home*/
+#taste_name {
+	color: #d9d9d9;
+}
