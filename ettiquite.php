@@ -56,7 +56,7 @@
 		الشرق الأوسط: في الثقافة السورية، يمكنك أن تكون متأخر لمدة تصل إلى ٣٠ دقيقة. وينظر إليه على أنه من امر طبيعي وعادة الاجتمعات  لا تبدا الا بعد حضور الجميع . <br></br>
 		</div>
 		<div>
-        <img src="http://businessmodes.com/wp-content/uploads/2012/05/Business-Meeting.jpg"
+        <img style="margin-top: 97px;" src="http://dindingwe.co.zw/wp-content/uploads/2012/02/Business-Meeting1.jpg"
         width="586" height="389"><br></br>
         American: In America,meetings are straight forward and usually one speaker at a time. You can have informal meetings, which aren't that important but mandatory. Cooperation with co-workers is good. <br></br>
         Middle East:Meetings are very back and forth; many people contribute to the discussions. <br></br>
@@ -138,3 +138,78 @@
 
 	</body>
 </html>
+<html>
+	<head>
+		<title>DLI</title>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	</head>
+	<body>
+		<div>
+			<h1>DLI Ettiquite Guide between Europe and Syria</h1>
+			<h1> دليل الادب بين اوربا وسوريا </h1>
+		</div>
+		<div>
+        <img style="margin-top: 60px;" src="http://3.bp.blogspot.com/_gPwYqW1RqwM/TLylNu9B99I/AAAAAAAACm0/N3JYSQMItXw/s400/respecting-peoples-time.jpg"
+        width="586" height="389"><br></br>
+          Germany: No being late; considered thoughtless and rude.Being late in German culture is seen as extremely thoughtless and rude.
+          <br></br>
+          Arabic Translation: لا يجري التاخير على المواعيد في المانيا وقت متأخر. يعتبر التاخيرعلى المواعيد شي غير مقبول للغاية اوشي غير مهذب.
+         <br></br>
+           Norway: Time is critical in Norway; make sure you're sharp on time.
+           Being late to a meeting or to a dinner is considered very rude. If the host says 7:00, you should be there at 7:00.
+           <br></br>
+           Arabic Translation:الوقت أمر بالغ الأهمية في النرويج. تأكد من أنك حاد في الوقت المحدد. التاخير على اجتماع او موعد عشاء يعتبر امرا في غاية الوقاحة. إذا قال المضيف الساعة السابعة، يجب أن تكون هناك في الساعة السابعة تماما.
+           <br></br>
+          Sweden: Just as Norway and Germany, time is very critical in Sweden. People make sure to be on time.
+          <br></br>
+          Arabic Translation:كما النرويج وألمانيا، والوقت حرج للغاية في السويد. الناس تأكد من أن تصل في الوقت المحد
+          <br></br>
+          Middle East:In Syrian culture, you can be late for up to 30 minutes. It is seen as the normal to not be on time, and everyone respects that mutually. Though it is good to be on time, meetings usually won't start until all parties are present.<br></br>
+          	<br></br>
+          	الشرق الأوسط: في الثقافة السورية، يمكنك أن تكون متأخر لمدة تصل إلى ٣٠ دقيقة. وينظر إليه على أنه من امر طبيعي وعادة الاجتمعات  لا تبدا الا بعد حضور الجميع .<br></br>
+           <br></br>
+           <div>
+		    <img ="margin-top: 61px;" src="http://www.enjoy-europe.com/hte/chap05/images/P1030120-SanSebastian.jpg"
+           width="586" height="389"><br></br>
+          Germany:You should also be prepared to dress nicely most of the time, as dressing casually is looked down.
+          <br></br>
+          Arabic Translation:يجب  أن تلبس لباسا  لطيف في معظم الوقت في المانيا، الملابس العادية غير محبذة هناك
+          <br></br>
+          Norway:People in Norway dress up in casual most of the time. On Fridays and on the weekends, they usually dress up in sports clothes such as skiing clothes.For business, men usually dress up in suits while women can wear anything they like.
+         <br></br>
+         Aabic Translation:الناس في النرويج يلبسون لباس عادي معظم الاوقات . يوم الجمعة وفي عطل نهاية الأسبوع، عادة الناس يلبسون ملابس ملابس رياضية مثل ملابس التزل ، والرجال عادة يلبسون بدلات في الدعاوى في حين يمكن للمرأة ارتداء أي شيء يحلو لهم.
+          <br></br>
+          Sweden:Swedish people like fashion, however they avoid standing out in glitzy attire.They like to wear jeans most of the time.For business, a suits are for gentlemen and trousers are for women.
+          <br></br>
+          Arabic Translation:الشعب السويدي يحب الأزياء، إلا أن الشعب السويدي يتجنب التبهرج .ويحب ارتداء الجينز معظم الأوقات .وفي الدعاوى الالسادة يلبسون البدلات بينما النساء يلبسون البناطيل.
+         <br></br>
+         Middle East:Syrian clothing is very diverse.Syrian people wear their traditional dresses on the celebrations and ceremonies.Traditional dresses for men are robes, while women's traditional dresses are long robes that cover most of the body.
+         Syrian people who don't wear traditional clothing wear casual like pants, skits, and dresses. Syrian people who don't wear traditional clothing like fashion.
+         <br></br>
+         Syrian people like fashion.
+         <br></br>
+         Arabic Translation:الملابس السوري مختلفة.الشعب السوري يلبس الملابس التقليدية فقط في الاحتفالات والمناسبات. الرجال يلبسون الجلباب، بينما النساء تلبس االفساتين التقليدية وهي الجلباب الطويل الذي يغطي معظم الجسم. الشعب السوري الذين لا يرتدون الملابس التقليدية عادة يلبسون  السراويل، التنانير، والبدلات. الشعب السوري يحب الناقة وله ذوق رفيع في البس.
+         <br></br>
+		 </div>
+		 <div>
+        <img style="margin-top: 83px;" src="http://www.ciberdroide.com/wordpress/wp-content/uploads/saludo3.jpeg"
+        width="586" height="389"><br></br>
+        Germany: Germans shake hands every single individual when they arrive and depart.
+       <br></br>
+       Arabic Translation:الألمان يتصافحان كل فرد عند وصولها ورحيلهم.
+       <br></br>
+       Norway: People in Norway are casual. They greet each other with a smile and a firm handshake upon arriving and departing.
+       <br></br>
+		Arabic Translation:الناس في النرويج عمليين.  يصافحون بعضهم البعض اثناء وصولهم ومغادرتهم
+		<br></br>
+		Sweden: Swedish men and women who know each other socialize with each other. At social meeting men and women shake hands when they meet and once more when they leave.
+		<br></br> Younger people do not need to shake hands when meeting friends.
+		<br></br>
+		Arabic Translation:الرجال والنساء السويدين الذين يعرفون بعضهم البعض يتصافحون مع بعضها البعض في لقائتهم الاجتماعية وايضا يتصافحون مرة أخرى عندما يغادرون.  والناس الاصغر عمرا ليسوا بحاجة لمصافحة عند اجتماعهم مع الأصدقاء.
+        <br></br>
+		Syria:  It is abnormal to not shake hands with people. Kiss on the cheek is only for women and it is abnormal to touch people who aren't your relatives. It is seen as disrespectful.
+        <br></br>
+        Arabic Translation: لشرق الأوسط: إنه أمر غير طبيعي لعدم مصافحة الناس. قبلة على الخد تمارسها النساء فقط، وأنه أمر غير طبيعي لمس الناس الذين ليسوا من أقاربك. ينظر إليها على أنها غير محترمة.
+		<br></br>
+
+		</div>
