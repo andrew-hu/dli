@@ -1,6 +1,4 @@
-<?php
-include 'sample.php';
-?>
+
 
 <html>
 	<head>
@@ -17,7 +15,7 @@ include 'sample.php';
 		</div>
 		<div>
 		<?php
-		query_api($term, $location);
+			include 'sample.php';
 		?>
 		</div>
 
