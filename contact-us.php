@@ -10,9 +10,13 @@
 		</header>
 		<div>
 			<h1>Our Mission</h1>
+			We are a team of 4 students currently enrolled in engineering. We were assigned to make a project that could help people in any sort of way.
+			 We chose to do this Direct Language Interaction since the Syrian refugee crisis is something that not many people want to address. We find
+			 it important to help our fellow human beings out by making them as comfortable as possible in an unfamiliar environment.Currently, our program
+			  is designed for the refugees in the Americas, but we hope to eventually expand our project to help them worldwide.
+		<br></br>
 		</div>
 		<div>
-			Mission Statement
 		</div>
 		<div>
 			<h1>Contact Us</h1>
