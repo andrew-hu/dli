@@ -165,7 +165,7 @@
           Arabic Translation:كما النرويج وألمانيا، والوقت حرج للغاية في السويد. الناس تأكد من أن تصل في الوقت المحد
           <br></br>
           Middle East:In Syrian culture, you can be late for up to 30 minutes. It is seen as the normal to not be on time, and everyone respects that mutually. Though it is good to be on time, meetings usually won't start until all parties are present.<br></br>
-          	<br></br>
+
           	الشرق الأوسط: في الثقافة السورية، يمكنك أن تكون متأخر لمدة تصل إلى ٣٠ دقيقة. وينظر إليه على أنه من امر طبيعي وعادة الاجتمعات  لا تبدا الا بعد حضور الجميع .<br></br>
            <br></br>
            <div>
@@ -184,9 +184,7 @@
           Arabic Translation:الشعب السويدي يحب الأزياء، إلا أن الشعب السويدي يتجنب التبهرج .ويحب ارتداء الجينز معظم الأوقات .وفي الدعاوى الالسادة يلبسون البدلات بينما النساء يلبسون البناطيل.
          <br></br>
          Middle East:Syrian clothing is very diverse.Syrian people wear their traditional dresses on the celebrations and ceremonies.Traditional dresses for men are robes, while women's traditional dresses are long robes that cover most of the body.
-         Syrian people who don't wear traditional clothing wear casual like pants, skits, and dresses. Syrian people who don't wear traditional clothing like fashion.
-         <br></br>
-         Syrian people like fashion.
+         Syrian people who don't wear traditional clothing wear casual like pants, skits, and dresses. In general Syrian people like fashion.
          <br></br>
          Arabic Translation:الملابس السوري مختلفة.الشعب السوري يلبس الملابس التقليدية فقط في الاحتفالات والمناسبات. الرجال يلبسون الجلباب، بينما النساء تلبس االفساتين التقليدية وهي الجلباب الطويل الذي يغطي معظم الجسم. الشعب السوري الذين لا يرتدون الملابس التقليدية عادة يلبسون  السراويل، التنانير، والبدلات. الشعب السوري يحب الناقة وله ذوق رفيع في البس.
          <br></br>
@@ -211,5 +209,39 @@
         <br></br>
         Arabic Translation: لشرق الأوسط: إنه أمر غير طبيعي لعدم مصافحة الناس. قبلة على الخد تمارسها النساء فقط، وأنه أمر غير طبيعي لمس الناس الذين ليسوا من أقاربك. ينظر إليها على أنها غير محترمة.
 		<br></br>
+		<br></br>
+		<div>
+		    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/No_smoking_symbol.svg/600px-No_smoking_symbol.svg.png" class="mw-mmv-final-image mw-mmv-dialog-is-open"
+		    width="586" height="389"><br></br>
+		    Germany:The legal age to smoke is 16. It is illegal to allow minor to smoke. Smoking is banned in public places and there is a fine for violation of the smoking law.
+		    <br></br>
+		    Arabic Translation:السن القانونية للتدخين هو ١٦. انه غير قانوني للسماح للقاصر في التدخين. يحظر التدخين في الأماكن العامة، وهناك غرامة مالية لانتهاك القانون التدخين.
+		    <br></br>
+		    Norway: Smoking in banned in public places. The legal age to buy tobacco is 18, but still unfortunately many children 15 years old smoke daily.
+		    <br></br>
+		    Arabic Translation:التدخين محظور في الأماكن العامة. السن القانونية لشراء التبغ هو ١٨عاما، ولكن لا يزال للأسف الكثير من الأطفال ١٥ عاما يدخنون يوميا
+		    <br></br>
+		    Sweden:Smoking in banned strictly in all bars and restaurants. The legal age to purchase or smoke cigarettes is 18.Sweden has the smallest percentage of adults smoking compare to other European countries.
+		    <br></br>
+		    Arabic Translation:التدخين في حظر صارم في جميع الحانات والمطاعم في السويد. السن القانونية لشراء أو تدخين السجائر هو١٨. السويد   هيالدولة الوحيدة في اوربا التي  لديها أقل نسبة من البالغين المداخنين مقارنة إلى دول أوروبية أخرى
+		    <br></br>
+		    Syria:The legal age to smoke and drink is 18, most people don't follow this rule. You can smoke and not be looked down upon.Smoking in public is common, and you usually don't have to leave a restaurant to smoke.<br></br>
+		    Arabic Translation:الشرق الأوسط: السن القانوني للتدخين وشرب هو ١٨، ومعظم الناس لا تتبع هذه القاعدة. يمكنك التدخين ولا ينظر اليه بازدراء.
+		التدخين في الأماكن العامة هو شائع، ولا يتوجب مغادرة  مطعم من اجل التدخين.<br></br>
+     <br></br>
+		</div>
+		<div>
+		    <img <img "margin-top: 110px;" src="http://awc.upei.ca/files/awc/Temple%20Grandin%20lecturing.jpg"
+		    width="586" height="389"><br></br>
+        Germany, Sweden, and Norway: The most common way of teaching is lectures.
+        <br></br>
+       Arabic Translation:ألمانيا والسويد والنرويج :الطريقة الأكثر شيوعا للتعليم هي المحاضرات
+       <br>
+           Syria: Same as Germany, Norway, and Sweden.
+           <br></br>
+           Arabic Translation:سوريا: نفس ألمانيا والنرويج والسويد الطريقة الامثل للتعليم هي المحاضرات
+           <br></br>
+
+		</div>
 
 		</div>
