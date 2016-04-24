@@ -157,6 +157,7 @@ function query_api($term, $location) {
 /**
  * User input is handled here
  */
+
 $longopts  = array(
     "term::",
     "location::",
@@ -165,5 +166,5 @@ $longopts  = array(
 $options = getopt("", $longopts);
 $term = $options['term'] ?: '';
 $location = $options['location'] ?: '';
-
+query_api($term, $location);
 ?>
