@@ -1,4 +1,6 @@
-
+<?php
+	include_once 'sample.php';
+?>
 
 <html>
 	<head>
@@ -14,8 +16,16 @@
 			<h1>DLI Taste of Home</h1>
 		</div>
 		<div>
+			<form id="taste_form">
+				  ZIP:<br>
+				  <input type="text" name="location"><br><br>
+				  <input type="submit" value="Submit">
+			</form>
 		<?php
-			include 'sample.php';
+			if(isset($_GET['location'])){
+				$location = $_GET['location'];
+			}
+			query_api($term, $location);
 		?>
 		</div>
 
