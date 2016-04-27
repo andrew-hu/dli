@@ -59,7 +59,7 @@
 				        echo "<td><audio id='". $row["id"]."' >";
 						echo "<source src='TextToSpeech/" . $row["id"]. ".mp3'></source>";
 						echo "Your browser isn't invited for super fun audio time.";
-						echo "</audio><button onclick='playAudio(id=\"" .$row["id"]. "\")' type='button'>Play</button></td>";
+						echo "</audio><img onclick='playAudio(id=\"" .$row["id"]. "\")' type='button' src='http://i.imgur.com/7T5CQLX.png'></button></td>";
 				    	echo "</tr>";
 				    }
 				} else {
@@ -76,6 +76,10 @@
 				    while($row = mysqli_fetch_assoc($result)) {
 				        echo "<tr>";
 				        echo "<td>" . $row["english"]. "</td><td>" . $row["arabic"]. "</td>";
+				        echo "<td><audio id='". $row["id"]."' >";
+						echo "<source src='TextToSpeech/" . $row["id"]. ".mp3'></source>";
+						echo "Your browser isn't invited for super fun audio time.";
+						echo "</audio><img onclick='playAudio(id=\"" .$row["id"]. "\")' type='button' src='http://i.imgur.com/7T5CQLX.png'></button></td>";
 				    	echo "</tr>";
 				    }
 				} else {
@@ -92,6 +96,10 @@
 				    while($row = mysqli_fetch_assoc($result)) {
 				        echo "<tr>";
 				        echo "<td>" . $row["english"]. "</td><td>" . $row["arabic"]. "</td>";
+				        echo "<td><audio id='". $row["id"]."' >";
+						echo "<source src='TextToSpeech/" . $row["id"]. ".mp3'></source>";
+						echo "Your browser isn't invited for super fun audio time.";
+						echo "</audio><img onclick='playAudio(id=\"" .$row["id"]. "\")' type='button' src='http://i.imgur.com/7T5CQLX.png'></button></td>";
 				    	echo "</tr>";
 				    }
 				} else {
@@ -108,6 +116,10 @@
 				    while($row = mysqli_fetch_assoc($result)) {
 				        echo "<tr>";
 				        echo "<td>" . $row["english"]. "</td><td>" . $row["arabic"]. "</td>";
+				        echo "<td><audio id='". $row["id"]."' >";
+						echo "<source src='TextToSpeech/" . $row["id"]. ".mp3'></source>";
+						echo "Your browser isn't invited for super fun audio time.";
+						echo "</audio><img onclick='playAudio(id=\"" .$row["id"]. "\")' type='button' src='http://i.imgur.com/7T5CQLX.png'></button></td>";
 				    	echo "</tr>";
 				    }
 				} else {

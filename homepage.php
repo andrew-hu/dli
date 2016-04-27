@@ -15,7 +15,7 @@
 				<a href="translator.php"><div class="select fade">
 					Translator
 				</div>
-				<a href="ettiquite.php"><div class="select fade">
+				<a href="country.php"><div class="select fade">
 					Ettiquite
 				</div></a>
 				<a href="taste-of-home.php"><div class="select">
